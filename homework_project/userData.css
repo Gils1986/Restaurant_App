@@ -1,0 +1,42 @@
+.header {
+  height: 200px;
+}
+
+.footer {
+  height: 200px;
+}
+
+.content {
+  height: 600px;
+  background-color: white;
+  margin-right: 700px;
+  margin-left: 700px;
+  border: solid;
+}
+
+body {
+  background-color: gray;
+}
+
+input {
+  width: 400px;
+  margin-left: 40px;
+  height: 30px;
+  border: 1px solid;
+  border-radius: 5px;
+}
+
+.forward {
+  margin-left: 170px;
+  height: 50px;
+  width: 150px;
+  font-size: 20px;
+  color: white;
+  background-color: red;
+}
+
+.back {
+  margin-left: 10px;
+}
+
+

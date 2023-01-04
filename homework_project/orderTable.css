@@ -1,0 +1,112 @@
+.header {
+  height: 200px;
+  background-color: rgb(227, 180, 122);
+  display: flex;
+  flex-basis: 30%;
+  text-align: center;
+  border: solid;
+}
+.logo {
+  margin: 3px;
+}
+#logo {
+  height: 195px;
+}
+
+.headline {
+  margin: 3px;
+  width: 1800px;
+  text-align: center;
+  align-items: center;
+  font-size: xx-large;
+}
+
+.footer {
+  height: 150px;
+  width: 1890px;
+  background-color: white;
+  margin: 3px;
+  align-items: center;
+  border: solid;
+}
+
+.logos {
+  margin: auto;
+  width: 15%;
+  padding: -20px;
+  align-items: center;
+}
+
+#logos {
+  height: 105px;
+}
+.butn {
+  height: 45px;
+  width: 1898px;
+  border: solid;
+  border-color: black;
+  background-color: rgb(227, 180, 122);
+  display: flex;
+  align-items: center;
+}
+
+.butny {
+  padding: 120px;
+}
+
+button {
+  width: 100px;
+  height: 30px;
+}
+
+.container {
+  background-color: gray;
+  height: 520px;
+  display: flex;
+}
+
+body {
+  background-color: gray;
+}
+
+h6 {
+  font-size: 12px;
+  margin: -10px;
+  text-align: center;
+}
+.containerRight {
+  width: 1280px;
+  display: flex;
+  flex-direction: column;
+  margin: 5px;
+}
+.containerLeft {
+  border: solid;
+  width: 640px;
+  margin: 5px;
+}
+
+.table {
+  display: flex;
+  height: 200px;
+}
+
+.insideTableDiv {
+  border: solid;
+  width: 256px;
+  margin: 5px;
+}
+
+img {
+  width: 180px;
+  height: 130px;
+}
+h3 {
+  margin: 20px;
+}
+
+#orderTableDescription {
+  margin: 120px;
+  font-size: 40px;
+  background-color: green;
+}
